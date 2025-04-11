@@ -5,21 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e452a21b-68a4-4aec-85b3-9745abd5065b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/web-hw-4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First task/error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First task/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First task/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First task/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First task/message.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First task/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web-hw-4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First task/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/first_task/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First task/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/first_task/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First task/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/first_task/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First task/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_task/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First task/message.html" beforeDir="false" afterPath="$PROJECT_DIR$/first_task/message.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First task/storage/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/first_task/storage/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First task/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/first_task/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +33,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -46,17 +45,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.handler.executor&quot;: &quot;Run&quot;,
-    &quot;Python.httphandler.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.handler.executor": "Run",
+    "Python.httphandler.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/PycharmProjects/web-hw-4",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PycharmProjects\web-hw-4\First task" />
@@ -103,5 +104,41 @@
       <updated>1743628382591</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="7e12543a-8fd7-45a2-b8f8-5c20f5be3400" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="7e12543a-8fd7-45a2-b8f8-5c20f5be3400">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

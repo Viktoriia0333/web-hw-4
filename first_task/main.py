@@ -17,14 +17,14 @@ class httpHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         url_path = urllib.parse.urlparse(self.path)
         if url_path.path == '/':
-            self.send_html_file('index.html')
+            self.send_html_file('templates/index.html')
         elif url_path.path == '/message.html':
-            self.send_html_file('message.html')
+            self.send_html_file('templates/message.html')
         else:
             if pathlib.Path().joinpath(url_path.path[1:]).exists():
                 self.send_static()
             else:
-                self.send_html_file('error.html', 404)
+                self.send_html_file('templates/error.html', 404)
 
     def do_POST(self):
         data = self.rfile.read(int(self.headers['Content-Length']))
